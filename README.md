@@ -1,7 +1,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/tamalware?style=social)
 
 
-# neo4j-docker-extension
+# neo4j-docker-ext
 
 
 
@@ -27,7 +27,7 @@ With this Docker Extension, once can setup the Neo4j with just a few commands/cl
  ## Building the Extension
  
  ```
-  make install-extension
+  make install-ext
  ```
  
  ## Install the Extension

@@ -39,7 +39,7 @@ With this Docker Extension, once can setup the Neo4j with just a few commands/cl
  ## Install the Extension
  
  ```shell
-  docker extension install ajeetraina/neo4j-docker-extension:1.0         
+  docker extension install xobjdump/neo4j-docker-extension:1.0         
   ```
  
  Open Docker Dashboard to see Neo4j Docker Extension already up and running.

@@ -1,10 +1,4 @@
-[![Join our Forum](https://img.shields.io/badge/-Join%20our%20Forum-blue)](https://forums.docker.com/c/docker-extensions/62)
-![stars](https://img.shields.io/github/stars/xobjdump/neo4j-docker-extension)
-![forks](https://img.shields.io/github/forks/xobjdump/neo4j-docker-extension)
-![Discord](https://img.shields.io/discord/1020180904129335379)
-![issues](https://img.shields.io/github/issues/xobjdump/neo4j-docker-extension)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=xobjdump.neo4j-docker-extension)
-![Twitter](https://img.shields.io/twitter/follow/xobjdump?style=social)
+![Twitter](https://img.shields.io/twitter/follow/tamalware?style=social)
 
 
 # neo4j-docker-extension
